@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\weirdrazak\\dcit318-assignment1-10961911\\Ticket Price Calculator\\Ticket Price Calculator.csproj",
-      "projectName": "Ticket Price Calculator",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\weirdrazak\\dcit318-assignment1-10961911\\Ticket Price Calculator\\Ticket Price Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\weirdrazak\\dcit318-assignment1-10961911\\Grade Calculator.csproj",
+      "projectName": "Grade Calculator",
+      "projectPath": "C:\\Users\\USER\\source\\repos\\weirdrazak\\dcit318-assignment1-10961911\\Grade Calculator.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\weirdrazak\\dcit318-assignment1-10961911\\Ticket Price Calculator\\obj\\",
+      "outputPath": "C:\\Users\\USER\\source\\repos\\weirdrazak\\dcit318-assignment1-10961911\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

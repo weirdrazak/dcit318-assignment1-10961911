@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ticket Price Calculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f56d5499116c4cf3dc3e270eb39828e185107fc0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b3d1d1ef32758b6b6017216421c0754ba4df6ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ticket Price Calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ticket Price Calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
